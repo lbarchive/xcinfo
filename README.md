@@ -12,6 +12,25 @@ where:
  * `cw`, `ch`: cursor image size
  * `cx`, `cy`: cursor hotspot position
 
+Compilation
+-----------
+
+    $ make
+
+Installation
+------------
+
+    # By default, to install to `/usr/local`, run:
+    $ make install
+
+    # Or to `/usr`:
+    $ make install PREFIX=/usr
+
+    # Or to your home:
+    $ make install PREFIX=$HOME
+
+To uninstall, use `uninstall` target with `PREFIX` if supplied during installation.
+
 Usage
 -----
 

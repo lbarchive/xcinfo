@@ -11,7 +11,7 @@ all: xcinfo
 
 xcinfo.o: xcinfo.c
 
-install:
+install: xcinfo
 	test -d $(INSTDIR) || mkdir -p $(INSTDIR)
 	test -d $(INSTBIN) || mkdir -p $(INSTBIN)
 

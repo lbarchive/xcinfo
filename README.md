@@ -57,6 +57,10 @@ You can watch a screenshot in this [blog post][bzen2-post].
 
 [bzen2-post]: http://blog.yjl.im/2011/09/bzen2-dzen2-which-bounces.html
 
+### snap.sh
+
+A script snaps a screenshot when mouse has movements every 5 minutes. It requires xsnap program to grab a screenshot.
+
 License
 -------
 

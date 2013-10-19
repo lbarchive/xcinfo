@@ -44,6 +44,10 @@ You can discard unneeded outputs, e.g.
     :::bash
     read x y sw sh _ <<< "$(xcinfo)"
 
+### Options
+
+`-i N`: querying every N microseconds.
+
 Examples
 --------
 

@@ -1,6 +1,11 @@
 CHANGES
 =======
 
+## Development
+
+* add option parsing
+* add -i for querying cursor by specified interval in microseconds
+
 ## Version 0.2 (2012-04-23T23:16:03Z)
 
   * Add snap and mouse trail examples

@@ -79,6 +79,10 @@ Scripts to record and render mouse trail as a SVG file, for example:
 
 A script snaps a screenshot when mouse has movements every 5 minutes. It requires xsnap program to grab a screenshot.
 
+### heatmap.sh
+
+Drawing heatmap of X cursor onto terminal window size. Here is a [video](http://youtu.be/4CsI2qG1h1Q).
+
 License
 -------
 

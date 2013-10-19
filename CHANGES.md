@@ -3,6 +3,8 @@ CHANGES
 
 ## Development
 
+## Version 0.3.0 (2013-10-19T10:34:43Z)
+
 * add option parsing
 * add -i for querying cursor by specified interval in microseconds
 * add heatmap example
